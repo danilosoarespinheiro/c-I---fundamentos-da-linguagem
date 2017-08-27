@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\desafio2cap5\bin\Debug\desafio2cap5.exe.config
+C:\Users\JP\source\repos\desafio2cap5\bin\Debug\desafio2cap5.exe
+C:\Users\JP\source\repos\desafio2cap5\bin\Debug\desafio2cap5.pdb
+C:\Users\JP\source\repos\desafio2cap5\obj\Debug\desafio2cap5.Form1.resources
+C:\Users\JP\source\repos\desafio2cap5\obj\Debug\desafio2cap5.Properties.Resources.resources
+C:\Users\JP\source\repos\desafio2cap5\obj\Debug\desafio2cap5.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\desafio2cap5\obj\Debug\desafio2cap5.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\desafio2cap5\obj\Debug\desafio2cap5.exe
+C:\Users\JP\source\repos\desafio2cap5\obj\Debug\desafio2cap5.pdb
