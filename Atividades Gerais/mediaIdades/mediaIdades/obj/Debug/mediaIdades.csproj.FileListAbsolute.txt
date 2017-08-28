@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\bin\Debug\mediaIdades.exe.config
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\bin\Debug\mediaIdades.exe
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\bin\Debug\mediaIdades.pdb
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\obj\Debug\mediaIdades.Form1.resources
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\obj\Debug\mediaIdades.Properties.Resources.resources
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\obj\Debug\mediaIdades.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\obj\Debug\mediaIdades.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\obj\Debug\mediaIdades.exe
+C:\Users\JP\source\repos\mediaIdades\mediaIdades\obj\Debug\mediaIdades.pdb

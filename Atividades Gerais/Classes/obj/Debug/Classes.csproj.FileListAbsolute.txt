@@ -1,0 +1,10 @@
+c:\users\jp\source\repos\Classes\bin\Debug\Classes.exe.config
+c:\users\jp\source\repos\Classes\bin\Debug\Classes.exe
+c:\users\jp\source\repos\Classes\bin\Debug\Classes.pdb
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.Form1.resources
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.Properties.Resources.resources
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.csproj.GenerateResource.Cache
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.exe
+c:\users\jp\source\repos\Classes\obj\Debug\Classes.pdb

@@ -1,0 +1,10 @@
+c:\users\jp\source\repos\ContaClasse\bin\Debug\ContaClasse.exe.config
+c:\users\jp\source\repos\ContaClasse\bin\Debug\ContaClasse.exe
+c:\users\jp\source\repos\ContaClasse\bin\Debug\ContaClasse.pdb
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.Form1.resources
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.Properties.Resources.resources
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.csproj.GenerateResource.Cache
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.csproj.CoreCompileInputs.cache
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.exe
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.pdb
+c:\users\jp\source\repos\ContaClasse\obj\Debug\ContaClasse.csprojResolveAssemblyReference.cache

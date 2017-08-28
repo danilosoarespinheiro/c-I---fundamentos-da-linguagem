@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\bin\Debug\PrimeiroProgramaC.exe.config
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\bin\Debug\PrimeiroProgramaC.exe
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\bin\Debug\PrimeiroProgramaC.pdb
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\obj\Debug\PrimeiroProgramaC.Form1.resources
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\obj\Debug\PrimeiroProgramaC.Properties.Resources.resources
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\obj\Debug\PrimeiroProgramaC.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\obj\Debug\PrimeiroProgramaC.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\obj\Debug\PrimeiroProgramaC.exe
+C:\Users\JP\source\repos\PrimeiroProgramaC\PrimeiroProgramaC\obj\Debug\PrimeiroProgramaC.pdb

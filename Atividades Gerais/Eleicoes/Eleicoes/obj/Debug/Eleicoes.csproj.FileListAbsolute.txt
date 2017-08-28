@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\bin\Debug\Eleicoes.exe.config
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\bin\Debug\Eleicoes.exe
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\bin\Debug\Eleicoes.pdb
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\obj\Debug\Eleicoes.Form1.resources
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\obj\Debug\Eleicoes.Properties.Resources.resources
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\obj\Debug\Eleicoes.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\obj\Debug\Eleicoes.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\obj\Debug\Eleicoes.exe
+C:\Users\JP\source\repos\Eleicoes\Eleicoes\obj\Debug\Eleicoes.pdb

@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\forencadeados\forencadeados\bin\Debug\forencadeados.exe.config
+C:\Users\JP\source\repos\forencadeados\forencadeados\bin\Debug\forencadeados.exe
+C:\Users\JP\source\repos\forencadeados\forencadeados\bin\Debug\forencadeados.pdb
+C:\Users\JP\source\repos\forencadeados\forencadeados\obj\Debug\forencadeados.Form1.resources
+C:\Users\JP\source\repos\forencadeados\forencadeados\obj\Debug\forencadeados.Properties.Resources.resources
+C:\Users\JP\source\repos\forencadeados\forencadeados\obj\Debug\forencadeados.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\forencadeados\forencadeados\obj\Debug\forencadeados.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\forencadeados\forencadeados\obj\Debug\forencadeados.exe
+C:\Users\JP\source\repos\forencadeados\forencadeados\obj\Debug\forencadeados.pdb

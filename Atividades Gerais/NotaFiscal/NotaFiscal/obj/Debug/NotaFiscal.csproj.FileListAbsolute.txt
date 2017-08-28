@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\bin\Debug\NotaFiscal.exe.config
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\bin\Debug\NotaFiscal.exe
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\bin\Debug\NotaFiscal.pdb
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\obj\Debug\NotaFiscal.Form1.resources
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\obj\Debug\NotaFiscal.Properties.Resources.resources
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\obj\Debug\NotaFiscal.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\obj\Debug\NotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\obj\Debug\NotaFiscal.exe
+C:\Users\JP\source\repos\NotaFiscal\NotaFiscal\obj\Debug\NotaFiscal.pdb

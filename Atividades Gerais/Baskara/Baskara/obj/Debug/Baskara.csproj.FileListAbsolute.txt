@@ -1,0 +1,10 @@
+C:\Users\JP\source\repos\Baskara\Baskara\bin\Debug\Baskara.exe.config
+C:\Users\JP\source\repos\Baskara\Baskara\bin\Debug\Baskara.exe
+C:\Users\JP\source\repos\Baskara\Baskara\bin\Debug\Baskara.pdb
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.Form1.resources
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.Properties.Resources.resources
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.exe
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.pdb
+C:\Users\JP\source\repos\Baskara\Baskara\obj\Debug\Baskara.csprojResolveAssemblyReference.cache

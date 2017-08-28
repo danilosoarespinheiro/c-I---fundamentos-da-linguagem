@@ -1,0 +1,10 @@
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.csprojResolveAssemblyReference.cache
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.Form1.resources
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.Properties.Resources.resources
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\bin\Debug\caixaEletronico2.exe.config
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\bin\Debug\caixaEletronico2.exe
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\bin\Debug\caixaEletronico2.pdb
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.exe
+C:\Users\JP\source\repos\caixaEletronico2\caixaEletronico2\obj\Debug\caixaEletronico2.pdb

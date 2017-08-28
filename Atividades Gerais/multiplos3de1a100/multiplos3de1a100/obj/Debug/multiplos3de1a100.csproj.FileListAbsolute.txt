@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\bin\Debug\multiplos3de1a100.exe.config
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\bin\Debug\multiplos3de1a100.exe
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\bin\Debug\multiplos3de1a100.pdb
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\obj\Debug\multiplos3de1a100.Form1.resources
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\obj\Debug\multiplos3de1a100.Properties.Resources.resources
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\obj\Debug\multiplos3de1a100.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\obj\Debug\multiplos3de1a100.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\obj\Debug\multiplos3de1a100.exe
+C:\Users\JP\source\repos\multiplos3de1a100\multiplos3de1a100\obj\Debug\multiplos3de1a100.pdb

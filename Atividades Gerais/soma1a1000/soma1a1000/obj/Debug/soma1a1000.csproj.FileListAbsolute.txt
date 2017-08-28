@@ -1,0 +1,9 @@
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\bin\Debug\soma1a1000.exe.config
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\bin\Debug\soma1a1000.exe
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\bin\Debug\soma1a1000.pdb
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\obj\Debug\soma1a1000.Form1.resources
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\obj\Debug\soma1a1000.Properties.Resources.resources
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\obj\Debug\soma1a1000.csproj.GenerateResource.Cache
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\obj\Debug\soma1a1000.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\obj\Debug\soma1a1000.exe
+C:\Users\JP\source\repos\soma1a1000\soma1a1000\obj\Debug\soma1a1000.pdb
